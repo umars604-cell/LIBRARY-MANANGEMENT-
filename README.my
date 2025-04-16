@@ -1,0 +1,6 @@
+# Library Management System
+
+## Description
+This project is a simple Library Management System implemented using SQL. It includes tables for authors, books, borrowers, and loans, along with sample data and queries to retrieve information.
+
+## Project Structure
